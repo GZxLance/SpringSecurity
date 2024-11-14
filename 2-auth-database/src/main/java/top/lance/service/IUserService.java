@@ -1,6 +1,6 @@
-package top.oranges.service;
+package top.lance.service;
 
-import top.oranges.entity.User;
+import top.lance.entity.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

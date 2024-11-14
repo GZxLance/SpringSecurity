@@ -9,7 +9,7 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>top.oranges</groupId>
+    <groupId>top.lance</groupId>
     <artifactId>auth-database</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>2-auth-database</name>

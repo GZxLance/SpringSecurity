@@ -1,4 +1,4 @@
-package top.oranges.utils;
+package top.lance.utils;
 
 /**
  * @author: orange

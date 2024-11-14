@@ -1,6 +1,6 @@
-package top.oranges.mapper;
+package top.lance.mapper;
 
-import top.oranges.entity.User;
+import top.lance.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

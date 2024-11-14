@@ -1,4 +1,4 @@
-package top.oranges.security;
+package top.lance.security;
 
 /**
  * @author: orange
@@ -16,8 +16,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
-import top.oranges.entity.User;
-import top.oranges.service.IUserService;
+import top.lance.entity.User;
+import top.lance.service.IUserService;
 
 import java.util.List;
 

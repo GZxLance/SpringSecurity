@@ -1,4 +1,4 @@
-package top.oranges;
+package top.lance;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import jakarta.annotation.Resource;
@@ -7,8 +7,8 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-import top.oranges.entity.User;
-import top.oranges.service.IUserService;
+import top.lance.entity.User;
+import top.lance.service.IUserService;
 
 @SpringBootTest
 @Slf4j

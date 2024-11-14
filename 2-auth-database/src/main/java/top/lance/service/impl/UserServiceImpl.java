@@ -1,8 +1,8 @@
-package top.oranges.service.impl;
+package top.lance.service.impl;
 
-import top.oranges.entity.User;
-import top.oranges.mapper.UserMapper;
-import top.oranges.service.IUserService;
+import top.lance.entity.User;
+import top.lance.mapper.UserMapper;
+import top.lance.service.IUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

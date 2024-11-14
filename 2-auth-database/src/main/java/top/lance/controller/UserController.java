@@ -1,4 +1,4 @@
-package top.oranges.controller;
+package top.lance.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.stereotype.Controller;
