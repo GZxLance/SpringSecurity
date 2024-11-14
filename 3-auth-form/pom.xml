@@ -13,7 +13,7 @@
     <artifactId>auth-form</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>3-auth-form</name>
-    <description>Spring Security 6 系列【3】认证篇之表单登录的自定义配置</description>
+    <description>Spring Security 6 系列【3】认证之表单登录的自定义配置</description>
 
 
     <properties>

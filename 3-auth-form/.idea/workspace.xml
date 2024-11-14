@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f2a47f-2d10-490a-877d-b68f672a0d46" name="更改" comment="" />
+    <list default="true" id="e3f2a47f-2d10-490a-877d-b68f672a0d46" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +40,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oq13NkUUyvC0Chwqm18FtP0aCi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -58,21 +61,25 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.Application.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ProgramFiles/hou/SpringSecurity/3-auth-form",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="auth-form" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="top.lance.Application" />
       <method v="2">
@@ -96,7 +103,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693739474204</updated>
-      <workItem from="1731582094021" duration="1279000" />
+      <workItem from="1731582094021" duration="1032000" />
+      <workItem from="1731583770740" duration="22000" />
+      <workItem from="1731583824772" duration="13000" />
+      <workItem from="1731583872844" duration="12000" />
+      <workItem from="1731583921321" duration="28000" />
+      <workItem from="1731584566397" duration="54000" />
+      <workItem from="1731584685228" duration="37000" />
+      <workItem from="1731584759220" duration="235000" />
     </task>
     <servers />
   </component>
