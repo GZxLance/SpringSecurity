@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: 3-auth-form
+
+  security:
+    user:
+      name: admin
+      password: 123456
