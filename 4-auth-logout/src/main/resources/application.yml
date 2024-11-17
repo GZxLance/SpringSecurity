@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: 4-auth-logout
+
+  security:
+    user:
+      name: test
+      password: 123456
